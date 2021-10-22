@@ -19,7 +19,7 @@ You will be writing a caeser cipher in ARM assembly.
         If the key + letter is less than 'a' then you have to add 26.
 
 # Grading
-    You must have a make file of you can only get 25/50
+    No makefile will result in a 0.
     If you upload your file from a web browser you will only get 25/50 you must use the command line commands discussed in class (git add, git commit, etc)
     If the code does not compile you get a 0
     Partial credit will be given based on the performance of the program
